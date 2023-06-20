@@ -1,0 +1,14 @@
+[
+  {
+    "idProveedor": 1,
+    "nombre": "Coca-Cola",
+    "fechaAlta": "2023-06-20T18:16:39.180494",
+    "idCliente": 5
+  },
+  {
+    "idProveedor": 2,
+    "nombre": "Pepsi",
+    "fechaAlta": "2023-06-20T18:16:39.180494",
+    "idCliente": 5
+  }
+]
